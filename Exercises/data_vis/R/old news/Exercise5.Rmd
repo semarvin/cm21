@@ -1,0 +1,71 @@
+---
+title: "Exercise 5"
+output: html_notebook
+---
+
+Time: 2 1/2 hours
+
+Loading all of the appropriate libraries:
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(purrr)
+```
+
+Importing the data (took a few tries because typos):
+
+```{r}
+names <- read_csv("namestib.csv")
+```
+
+Making sure everything imported correctly:
+
+```{r}
+names
+```
+
+Presenting .csv data in a tibble so as to manipulate it with ggplot (also made some other small modifications to the .csv file for ease of use)
+
+```{r}
+namestib <- as_tibble(names)
+```
+
+Attempting to do some kind of preliminary plotting with ggplot (not 100% sure what my goals are here which is all-around not best practice):
+
+```{r}
+ggplot(data = namestib) +
+  geom_point(mapping = aes(x= Name, y = Source))
+```
+
+This particular plot is not very helpful. None of the names can be read. What if I switch the axes?
+
+```{r}
+ggplot(data = namestib) +
+  geom_point(mapping = aes(x = Source, y = Name))
+```
+
+Still not very decipherable, and I've left a whole column unaccounted for. Maybe we can work with size and color?
+
+```{r}
+ggplot(data = namestib) +
+ geom_point(mapping = aes(x = Source, y = Name, color = Role))
+```
+
+While they're not rendering in the Markdown notebook well, they render better in the console. Either way, this is still not the best way to present the information. I want to emphasize the people who appeared in more than one source. Maybe if I try to switch the variable around?
+
+```{r}
+ggplot(data = namestib) +
+ geom_point(mapping = aes(x = Role, y = Name, color = Source))
+```
+
+Still not getting my point across, but this is the best way to present the information I've come across so far. Let's try to use size--that wil make it clearer where I hope the viewer will look.
+
+```{r}
+ggplot(data = namestib) +
+  geom_point(mapping = aes(x = Role, y = Name, size = Source))
+```
+
+Here R helpfully pointed out that that's not exactly how size should be used. Off to do more research.
+
+I didn't exactly get to where I was going but I maintain that the graph which sorted the roles by color is okay. I got frustrated here but didn't want to read ahead to try to find the answers I wanted as I still wasn't confident I was doing the assignment correctly (was I supposed to use Open Refine?), so I decided to stop. I think one of the reasons I'm finding this so difficult is because there aren't any numbers in my data but I'm trying to plot it numerically. It's especially aggravating because I know what I want the plot to look like and I know the number counts that I need but I am struggling to make it work in R.

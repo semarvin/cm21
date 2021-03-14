@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Methods &#39;21</title>
+    <link>ellie-cm21.netlify.app/</link>
+    <description>Recent content on Computational Methods &#39;21</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 15:56:40 -0400</lastBuildDate>
+    
+	<atom:link href="ellie-cm21.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 11</title>
+      <link>ellie-cm21.netlify.app/posts/week11/</link>
+      <pubDate>Sun, 14 Mar 2021 15:56:40 -0400</pubDate>
+      
+      <guid>ellie-cm21.netlify.app/posts/week11/</guid>
+      <description>This week I focused on finally launching my site. I could not figure out how to connect my Jekyll site to my GitHub pages site, so I switched instead to Hugo. After many hours of trial and error, I finally figured out how to connect Hugo to Netlify via GitHub. Here is my first post. I will be populating this site as the course continues.</description>
+    </item>
+    
+  </channel>
+</rss>

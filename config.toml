@@ -1,0 +1,21 @@
+baseURL = "ellie-cm21.netlify.app"
+languageCode = "en-us"
+title = "Computational Methods '21"
+theme = "m10c"
+
+[params]
+author = "Ellie Marvin"
+description = "Digital Humanities Graduate Student at Florida State University"
+avatar = "ellie.png"
+menu_item_separator = "|"
+favicon = "/favicon.ico"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+
+[[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/semarvin"
