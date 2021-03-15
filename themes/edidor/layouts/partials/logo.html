@@ -1,0 +1,19 @@
+{{ if (fileExists "static/images/logo_light.svg") }}
+<li class="logo-container logo-light">
+    <a href="{{ .Site.BaseURL }}" class="btn logo-link">
+        <img class="logo" src="{{ "images/logo_light.svg" | absURL }}" alt="logo" />
+    </a>
+</li>
+{{ end }}
+{{ if (fileExists "static/images/logo_wild.svg") }}
+<li class="logo-container logo-wild">
+    <a href="{{ .Site.BaseURL }}" class="btn logo-link">
+        <img class="logo" src="{{ "images/logo_wild.svg" | absURL }}" alt="logo" />
+    </a>
+</li>
+{{ end }}
+<li class="logo-container logo-default">
+    <a href="{{ .Site.BaseURL }}" class="btn logo-link">
+        <img class="logo" src="{{ "images/logo.svg" | absURL }}" alt="logo" />
+    </a>
+</li>

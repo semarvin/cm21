@@ -1,0 +1,14 @@
+<script src="{{ "js/main.js" | absURL }}"></script>
+{{ range .Site.Params.customJs}}
+    <script src="{{ "js/" | absURL }}{{ . }}"></script>
+{{ end }}
+{{ if (.Site.Params.isHighlightCode) }}
+{{ if not .Site.Params.useCustomSyntaxHighlight}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+{{ end }}
+<script>hljs.initHighlightingOnLoad();</script>
+{{ end }}
+
+{{- if not .Site.IsServer -}}
+{{ template "_internal/google_analytics_async.html" . }}
+{{- end -}}

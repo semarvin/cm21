@@ -1,0 +1,13 @@
+<ul class="categories control">
+    {{ range $key, $value := .Site.Taxonomies.categories}}
+    {{ if $value.Count }}
+    <li>
+        <a href="{{"categories" | absURL}}/{{ $key }}" class="btn">
+            <i class="icon icon-category"></i>
+            {{ $key }}
+            <span class="count">{{$value.Count}}</span>
+        </a>
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>

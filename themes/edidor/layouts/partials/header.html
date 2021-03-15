@@ -1,0 +1,39 @@
+<header class="header">
+    <ul class="menu clearfix control">
+        {{ partial "logo.html" . }}
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        {{ $name := .Name }}
+        <li {{if (eq $name "Theme")}} id="theme-switcher" {{end}}
+            class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+            <a class="btn" id="theme-switcher-button">
+                {{ $name }}
+            </a>
+            <ul class="sub-menu control">
+                {{ range .Children }}
+                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                    <a href="{{ .URL }}"
+                    {{if (eq $name "Theme") }}
+                        {{if (eq .Identifier "export-wild") }}
+                        class="{{.Identifier}} btn"
+                        {{else}}
+                        data-theme="{{.Identifier}}" class="btn"
+                        {{end}}
+                    {{else}}
+                        class="btn {{ .Identifier }}"
+                    {{end}}>{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </li>
+        {{ else }}
+        <li>
+            <a href="{{ .URL }}" class="btn">
+                {{ .Name }}
+            </a>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
+</header>
