@@ -31,7 +31,7 @@ disableFastRender = true
 [params]
     # will use AuthorName if you leave it blank, but you can set it to arbitrary text
     author = "Ellie Marvin"
-    title = "Computation Methods Spring '21"
+    title = "Computational Methods Spring '21"
     description = "Posts and resources for CM at FSU"
     # change it to false if you don't need syntax highlighting, and save a little bandwidth
     isHighlightCode = false
