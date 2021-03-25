@@ -5,6 +5,6 @@
 	path = edidor
 	url = https://github.com/jacobsun/edidor
 
-[submodule "themes/even"]
+[submodule "even"]
 	path = themes/even
 	url = https://github.com/olOwOlo/hugo-theme-even
