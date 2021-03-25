@@ -4,3 +4,7 @@
 [submodule "edidor"]
 	path = edidor
 	url = https://github.com/jacobsun/edidor
+
+[submodule "themes/anatole"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
