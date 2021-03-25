@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ellie Marvin</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Ellie Marvin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Mar 2021 18:01:11 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 25 Mar 2021 18:01:11 -0400</pubDate>
+      
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>I am currently a graduate student at Florida State University working on my MA in Digital Humanities. In May of 2019, I earned my BA from FSU and graduated Summa Cum Laude. I double majored in English and Humanities with a minor in Film Studies. My interests and hobbies include writing, editing, graphic design, art, photography, and film. My most recent experience in graphic design is my internship at The Dali Museum in St.</description>
+    </item>
+    
+  </channel>
+</rss>
