@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_THEME = "even"
-  HUGO_THEMESDIR = "/theme/even"
+  HUGO_THEMESDIR = "/themes/even"
   HUGO_VERSION = "0.62.2"
 
 [context.production.environment]
