@@ -19,196 +19,267 @@ Here is the metadata table for Corpus AI, as mentioned above. This small table i
 |Brent Bailey     |GANterbury Tales             |Novel |https://github.com/brondle/ganterbury-tales                                                            |50315     |hir eek al ther wel wol nat hem quod ye god shal yow ne alle                                    |hir   |eek   |al      |ther |wel     |wol    |nat      |hem    |quod   |ye   |god   |shal   |yow   |ne     |alle |
 |Not available    |The Orange Erotic Bible      |Novel |https://github.com/NaNoGenMo/2019/issues/18                                                            |64173     |shall lord said came went unto moses man people took come land blood day hand                   |shall |lord  |said    |came |went    |unto   |moses    |man    |people |took |come  |land   |blood |day    |hand |
 
+Here is the metadata table for Corpus S, which is not publicly available due to copyright concerns. This table includes similar information to the above table, but also with publication dates for the original document and the translation used (when applicable). I was not able to digitize all of these texts due to time constraints so I do not have word counts for print copies of texts.
+
+|Author(s)        |Title                             |Genre     |Written (original)|Published (translation)|Word Count|Top 15 most frequent words                                                                          |1      |2        |3     |4     |5        |6      |7         |8         |9        |10     |11      |12     |13          |14     |15      |
+|-----------------|----------------------------------|----------|------------------|-----------------------|----------|----------------------------------------------------------------------------------------------------|-------|---------|------|------|---------|-------|----------|----------|---------|-------|--------|-------|------------|-------|--------|
+|Aragon, Louis    |Paris Peasant                     |Novel     |1926              |1971                   |58578     |man like little rue love idea just great mind thought time sense world place nature                 |man    |like     |little|rue   |love     |idea   |just      |great     |mind     |thought|time    |sense  |world       |place  |nature  |
+|Aragon, Louis    |The Adventures of Telemachus      |Novel     |1922              |1997                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Aragon, Louis    |The Libertine                     |Novel     |1924              |1987                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Artaud, Antonin  |Anthology                         |Poetry    |various           |1965                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Breton, André    |Nadja                             |Novel     |1928              |1994                   |24056     |nadja time know like man certain quite woman day eyes way just life hand it's                       |nadja  |time     |know  |like  |man      |certain|quite     |woman     |day      |eyes   |way     |just   |life        |hand   |it's    |
+|Breton, André    |Surrealism and Painting           |Essay     |1928              |2002                   |608       |corpse exquisite games having began chateau day enthusiasm game good greatest house idea kisses long|corpse |exquisite|games |having|began    |chateau|day       |enthusiasm|game     |good   |greatest|house  |idea        |kisses |long    |
+|Breton, André    |Manifestoes of Surrealism         |Essay     |various           |1972                   |50022     |like time man day great certain surrealism long make thought way point little come life             |like   |time     |man   |day   |great    |certain|surrealism|long      |make     |thought|way     |point  |little      |come   |life    |
+|Crevel, Rene     |Babylon                           |Novel     |1927              |1985                   |40519     |little cynthia woman like child time amie day life man hair young petitdemange eyes old             |little |cynthia  |woman |like  |child    |time   |amie      |day       |life     |man    |hair    |young  |petitdemagne|eyes   |old     |
+|Dalí, Salvador   |The Collected Writings of SD      |Mixed     |various           |2017                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Desnos, Robert   |The Punishments of Hell           |Novel     |1922              |2017                   |23284     |flowers miss lies eyes hand left said right woman time like captain long way little                 |flowers|miss     |lies  |eyes  |hand     |left   |said      |right     |woman    |time   |like    |captain|long        |way    |little  |
+|Desnos, Robert   |Essential Poems and Writings of RD|Mixed     |various           |2007                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Eluard, Paul     |Letters to Gala                   |Poetry    |various           |1989                   |3708      |eyes like day night endoftext love heart light hands just mouth shade trees beneath death           |eyes   |like     |day   |night |endoftext|love   |heart     |light     |hands    |just   |mouth   |shade  |trees       |beneath|death   |
+|Eluard, Paul     |Selected Poems                    |Poetry    |various           |1987                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Eluard, Paul     |Shadows and Sun                   |Poetry    |various           |1995                   |3198      |like love eyes light water man sky head night dream birds hands world away earth                    |like   |love     |eyes  |light |water    |man    |sky       |head      |night    |dream  |birds   |hands  |world       |away   |earth   |
+|Eluard, Paul     |Unbroken Poetry II                |Poetry    |various           |1996                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Peret, Benjamin  |Death to the Pigs                 |Novel     |various           |1988                   |25067     |like mr broom seller said little left head came coal minister long time right suddenly              |like   |mr       |broom |seller|said     |little |left      |head      |came     |coal   |minister|long   |time        |right  |suddenly|
+|Various          |The Automatic Muse                |Novel     |various           |1994                   |n/a       |n/a                                                                                                 |n/a    |n/a      |n/a   |n/a   |n/a      |n/a    |n/a       |n/a       |n/a      |n/a    |n/a     |n/a    |n/a         |n/a    |n/a     |
+|Soupault & Breton|The Magnetic Fields               |Novel     |1920              |1985                   |14633     |longer little eyes like time day hands know away man days blue long night shall                     |longer |little   |eyes  |like  |time     |day    |hands     |know      |away     |man    |days    |blue   |long        |night  |shall   |
+|Bunuel & Dalí    |Un Chien Andalou                  |Screenplay|not available     |not available          |2685      |woman young man hand room box newcomer door character seen hands looks head bed eyes                |woman  |young    |man   |hand  |room     |box    |newcomer  |door      |character|seen   |hands   |looks  |head        |bed    |eyes    |
+
+The last metadata table references the samples generated by SAIGE which can all be viewed [here](https://saige.netlify.app/). They do not have titles or authors as SAIGE generated all of them and did not write titles for any of them. From the linked website: "I initially generated eight samples at three different temperatures, but later generated between eight and sixteen more at each temperature to better understand SAIGE’s abilities. Temperature controls the amount of entropy in the text. Generating samples at low temperatures instructs SAIGE to choose the most likely combination of words based on its training data; conversely, then, using higher temperatures increases the amount of randomness in SAIGE’s word selection. Usually, temperature values are between 1 and 0, so I generated samples at temperatures of 0.2, 0.5, and 0.8 in order to understand SAIGE’s full range of textual generation. Each sample generated was about 800 words long, though some were much shorter and some were much longer. SAIGE generated unconditional samples in order to evaluate SAIGE’s text without my prompting."
+
+|Temp             |Run                               |Sample    |Word Count   |Top 15 most frequent words|1    |2                                                                                                   |3      |4        |5     |6     |7        |8      |9         |10        |11       |12     |13      |14     |15          |
+|-----------------|----------------------------------|----------|-------------|--------------------------|-----|----------------------------------------------------------------------------------------------------|-------|---------|------|------|---------|-------|----------|----------|---------|-------|--------|-------|------------|
+|0.2              |1                                 |1         |845          |hand square freedom love country feeling human long makes shadow world add adventure afraid bataclan|hand |square                                                                                              |freedom|love     |country|feeling|human    |long   |makes     |shadow    |world    |add    |adventure|afraid |bataclan    |
+|0.2              |1                                 |2         |835          |concrete form savages viola expression poetry sense book poet ages believe consider ideas image lend|concrete|form                                                                                                |savages|viola    |expression|poetry|sense    |book   |poet      |ages      |believe  |consider|ideas   |image  |lend        |
+|0.2              |1                                 |3         |860          |room brass hands reproduction loved monastery bird bring drawing hand little opening right surrealism way|room |brass                                                                                               |hands  |reproduction|loved |monastery|bird     |bring  |drawing   |hand      |little   |opening|right   |surrealism|way         |
+|0.2              |1                                 |4         |749          |sea mannequin armor art best body globe singing state gonna key mannequinsorves old people run|sea  |mannequin                                                                                           |armor  |art      |best  |bosy  |globe    |singing|state     |gonna     |key      |mannequinsorves|old     |people |run         |
+|0.2              |1                                 |5         |819          |street high shall la like rue square young armee grande history it's lower man mar|street|high                                                                                                |shall  |la       |like  |rue   |square   |young  |armee     |grande    |history  |it's   |lower   |man    |mar         |
+|0.2              |1                                 |6         |582          |infinite lungs light madness seed hungry know woman asked eyes kisses life man presence shade|infinite|lungs                                                                                               |light  |madness  |seed  |hungry|know     |woman  |asked     |eyes      |kisses   |life   |man     |presence|shade       |
+|0.2              |1                                 |7         |837          |far negro grandfather grandmother life mother woman course beautiful chose come imaginary machine miracle multicolored|far  |negro                                                                                               |grandfather|grandmother|life  |mother|woman    |course |beautiful |chose     |come     |imaginary|machine |miracle|multicolored|
+|0.2              |1                                 |8         |361          |passan pomped unreadable belief closed eye appearance mind madame pompadour adventure great just mind's regular|passan|pomped                                                                                              |unreadable|belief   |closed|eye   |appearance|mind   |madame    |pompadour |adventure|great  |just    |mind's |regular     |
+|0.2              |2                                 |1         |853          |letters love things unexpected wanted day dream loved certain song approaches cherished expected letter mind's |letters|love                                                                                                |things |unexpected|wanted|day   |dream    |loved  |certain   |song      |approaches|cherished|expected|letter |mind's      |
+|0.2              |2                                 |2         |843          |man today hair like comb come desirable eiffel german it's long magistrate paris tower|man  |today                                                                                               |hair   |like     |comb  |come  |desireable|eiffel |german    |it's      |long     |magistrate|paris   |tower  |            |
+|0.2              |2                                 |3         |792          |bit man black flower just bank criminal fake globe great little long priests real shirt|bit  |mannequin                                                                                           |black  |flower   |just  |bank  |criminal |fake   |globe     |great     |little   |long   |priests |real   |shirt       |
+|0.2              |2                                 |4         |834          |method simple things vinegar surrealists better little mental new pathetically time great like wrong accept|method|simple                                                                                              |things |vinegar  |surrealists|better|little   |mental |new       |pathetically|time     |great  |like    |wrong  |accept      |
+|0.2              |2                                 |5         |744          |colour leaves thirst learning beat thin red free far line wall flowers glaze month reshapes|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.2              |2                                 |6         |847          |man time woman hand laughs moment single make silence stops talk books colour crowds goes|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.2              |2                                 |7         |832          |grandmother know mother life old remember visiting dad doing middle sister spook went women age|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.2              |2                                 |8         |750          |new face people empty coffin magic spent age circle delegated evening old power table villa|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |1                                 |1         |838          |sky want let clear aware feel head raises woman able arrested charged crosierous day dead|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |1                                 |2         |848          |armor combatant door adopted arms direction great life open sexes slabs british city counted darkness|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |1                                 |3         |851          |historical rat film little bed films lacked late mediocre republic second shop spirit girl innocent|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |1                                 |4         |769          |man breath gloomy conspiracy eyes good heavy woman closed going great harder object shutters absent|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |1         |779          |flip hop long manifesto perfume beard cup little man fliees sobs came following i'll left|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |2         |792          |written stomach water mauritanian agent chemical seed captain luminous death garlic pose word aragon rose|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |3         |798          |certa marvel old beautiful moments seen women city language life like marvelous mazda absolute actor|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |4         |665          |night oh real sad trunks pretty axis flowers traceries happens leave left nadja right ask|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |5         |818          |paris bordeaux smell boy conceived duality explain god good just speak absence andre believe believed|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |6         |836          |manifesto sample words written fleece jacket sun america color inside little signed sucker beasts canvas |     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |7         |875          |reference hope idea just surrealism way arms concrete great know law parties read revolutionary slogans |     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.5              |2                                 |8         |856          |factors music become best change date longer becomes circumstances people role time watching angle bring|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |1         |773          |like fish green city curve house sea way astronomical black blue endoftext hat looking phenomenon|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |2         |839          |fool man thought long matter better longer modern old son time way white youth belly|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |3         |843          |compass listen set time voice en horses necessary notion word 1129 1150 1175 1250 aware|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |4         |816          |hair lacking stage best didn't little prose single sort taught word writing act artful berkeley |     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |5         |842          |day game grew man old sped voice brother days eyes longer lost night sang speaks|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |6         |808          |pretty pink able blonde brave date eye it's just light make meet mouth red thighs|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |7         |744          |going like silence endoftext room sky alight comments depths eyes mystery seen sun think turn|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |1                                 |8         |831          |biennium dog eye general goal joules liter awareness beauty believe colour coloured costs doubt fact|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |2                                 |1         |781          |hunters pirates treasure who've tomorrow mirrors end fantastic forgotten high meet moment today veils activity|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |2                                 |2         |734          |bleu cordon father plus attitude good law little son bandits child compelled customs family letter|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |2                                 |3         |760          |exhibition aussi disgust man santeoun word second accidents bornemis boy costume like parents beard behind|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |2                                 |4         |826          |country war desnos great civil coal ireland mr parties party square absolutely betray britain|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |2                                 |5         |786          |party people good great live man bad communist facilities local long poor squirrel west awakening|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |1         |801          |battle fifties smoke green dead dead death ignited kerosene love war child eyes justice living long|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |2         |820          |god sleep cynthia sea bracelet man babylon love sleeps water depths earth person waves way|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |3         |817          |wave beard man like long stretched pupil right got grass leg sprinter's clouds concentrating entire|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |4         |813          |beard wild dishes man reflector coat long madman real speech years 1927 age avoid better|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |5         |760          |little cumulative law place prefer profits 1875 bit broome like 1909 1924 broomstick building cannon|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |6         |798          |dental phonograph emperor good lids little andre animals derision finger head it's object place policeman|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |7         |853          |boat little fish trying life bird looking river absolute friends idea like state able age|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
+|0.8              |3                                 |8         |806          |little child common know books boys café counry elbows goose inside left make necessary noise|     |                                                                                                    |       |         |      |      |         |       |          |          |         |       |        |       |            |
 
 
-|Name Identified       |Source                   |Role                 |
-|----------------------|-------------------------|---------------------|
-|André Breton          |Paris Peasant            |Surrealist           |
-|Philippe Soupault     |Paris Peasant            |Surrealist           |
-|Marcel Noll           |Paris Peasant            |Surrealist           |
-|Henry Bataille        |Paris Peasant            |Unknown              |
-|Arnold B              |Paris Peasant            |Unknown              |
-|Louis X               |Paris Peasant            |French Royalty       |
-|Etienne Dolet         |Paris Peasant            |Unknown              |
-|Antontin Merei        |Paris Peasant            |Unknown              |
-|Paul Eluard           |Paris Peasant            |Surrealist           |
-|Frau Krafft           |Paris Peasant            |Unknown              |
-|Edouard André         |Paris Peasant            |Unknown              |
-|Duchenes Martinets    |Paris Peasant            |Unknown              |
-|Barillet Deschamps    |Paris Peasant            |Unknown              |
-|Robert Desnos         |Paris Peasant            |Surrealist           |
-|Jean Jaur             |Paris Peasant            |Unknown              |
-|Jacques Rousseau      |Paris Peasant            |Enlightenment thinker|
-|Gustave Courbet       |Paris Peasant            |Unknown              |
-|Horace Vernet         |Paris Peasant            |Unknown              |
-|Monsieur Oudin        |Paris Peasant            |Unknown              |
-|Francis Picabia       |Paris Peasant            |Surrealist           |
-|Max Morise            |Paris Peasant            |Unknown              |
-|Edward V              |Paris Peasant            |Unknown              |
-|Christopher Columbus  |Paris Peasant            |Explorer             |
-|Jules Verne           |Paris Peasant            |Writer               |
-|Don Juan              |Paris Peasant            |Unknown              |
-|Benjamin Peret        |Paris Peasant            |Surrealist           |
-|Monsieur Landruis     |Paris Peasant            |Unknown              |
-|Sigmund Freud         |Paris Peasant            |Psychologist         |
-|Charles Baron         |Paris Peasant            |Unknown              |
-|Jacques Baron         |Paris Peasant            |Unknown              |
-|Fred Bretonnel        |Paris Peasant            |Unknown              |
-|Christopher Columbus  |Manifestoes of Surrealism|Explorer             |
-|Saint Thomas (Aquinas)|Manifestoes of Surrealism|Saint                |
-|Anatole France        |Manifestoes of Surrealism|Poet                 |
-|(Fyodor) Dostoevsky   |Manifestoes of Surrealism|Writer               |
-|Paul Valery           |Manifestoes of Surrealism|Writer               |
-|(Stendhal)            |Manifestoes of Surrealism|Writer               |
-|Sigmund Freud         |Manifestoes of Surrealism|Psychologist         |
-|Louis Aragon          |Manifestoes of Surrealism|Surrealist           |
-|Philippe Soupault     |Manifestoes of Surrealism|Surrealist           |
-|Paul Eluard           |Manifestoes of Surrealism|Surrealist           |
-|Robert Desnos         |Manifestoes of Surrealism|Surrealist           |
-|Roger Vitrac          |Manifestoes of Surrealism|Surrealist           |
-|Georges Auric         |Manifestoes of Surrealism|Unknown              |
-|Jean Paulham          |Manifestoes of Surrealism|Unknown              |
-|Max Morise            |Manifestoes of Surrealism|Unknown              |
-|Benjamin Peret        |Manifestoes of Surrealism|Surrealist           |
-|Joseph Delteil        |Manifestoes of Surrealism|Unknown              |
-|Jean Carrive          |Manifestoes of Surrealism|Unknown              |
-|Georges Limbour(s)    |Manifestoes of Surrealism|Unknown              |
-|Marcel Noll           |Manifestoes of Surrealism|Surrealist           |
-|Georges Malkin        |Manifestoes of Surrealism|Unknown              |
-|Antontin Artaud       |Manifestoes of Surrealism|Surrealist           |
-|Francis Girard        |Manifestoes of Surrealism|Unknown              |
-|Pierre Naville        |Manifestoes of Surrealism|Unknown              |
-|(J. A. Boiffard)      |Manifestoes of Surrealism|Unknown              |
-|Jacques Baron         |Manifestoes of Surrealism|Unknown              |
-|Francis Picabia       |Manifestoes of Surrealism|Surrealist           |
-|Marcel Duchamp        |Manifestoes of Surrealism|Surrealist           |
-|Pierre Reverdy        |Manifestoes of Surrealism|Surrealist           |
-|Guillaume Apollinaire |Manifestoes of Surrealism|Surrealist           |
-|Knut Hamsum           |Manifestoes of Surrealism|Writer               |
-|Thomas Carlyle        |Manifestoes of Surrealism|Writer               |
-|Isidore Ducasse       |Manifestoes of Surrealism|Unknown              |
-|Gustave Moreau        |Manifestoes of Surrealism|Unknown              |
-|Roger Vitrac          |Manifestoes of Surrealism|Unknown              |
-|Etienne Marcel        |Manifestoes of Surrealism|Unknown              |
-|Louis X               |Manifestoes of Surrealism|French Royalty       |
-|Man Ray               |Manifestoes of Surrealism|Surrealist           |
-|Max Ernst             |Manifestoes of Surrealism|Surrealist           |
-|Saint Denis           |Manifestoes of Surrealism|Saint                |
-|Professor Claude      |Manifestoes of Surrealism|Professor            |
-|Professor Janet       |Manifestoes of Surrealism|Professor            |
-|Alphonse Rabbe        |Manifestoes of Surrealism|Unknown              |
-|Paul Claudel          |Manifestoes of Surrealism|Unknown              |
-|Sherlock Holmes       |Manifestoes of Surrealism|Fictional character  |
-|Edgar Poe             |Manifestoes of Surrealism|Poet                 |
-|Alfred Jarry          |Manifestoes of Surrealism|Unknown              |
-|Pierre Unik           |Manifestoes of Surrealism|Unknown              |
-|Tristan Tzara         |Manifestoes of Surrealism|Surrealist           |
-|Hegel                 |Manifestoes of Surrealism|Philosopher          |
-|Michel Marty          |Manifestoes of Surrealism|Unknown              |
-|Boris Souvarine       |Manifestoes of Surrealism|Unknown              |
-|Marcel Fourrier       |Manifestoes of Surrealism|Unknown              |
-|Marie Roget           |Manifestoes of Surrealism|Unknown              |
-|Madame Deluc          |Manifestoes of Surrealism|Unknown              |
-|Raymond Roussel       |Manifestoes of Surrealism|Unknown              |
-|Jacques Vash          |Manifestoes of Surrealism|Unknown              |
-|Jacques Rigaud        |Manifestoes of Surrealism|Unknown              |
-|Salvador Dalí         |Manifestoes of Surrealism|Surrealist           |
-|Avida Dollars         |Manifestoes of Surrealism|Surrealist           |
-|Father Duchesne       |Manifestoes of Surrealism|Unknown              |
-|William James         |Manifestoes of Surrealism|Unknown              |
-|Emile Duclaux         |Manifestoes of Surrealism|Unknown              |
-|Juliette Drouet       |Nadja                    |Unknown              |
-|Tristan Tzara         |Nadja                    |Surrealist           |
-|Paul Eluard           |Nadja                    |Surrealist           |
-|Etienne Dolet         |Nadja                    |Unknown              |
-|Paul Eluard           |Nadja                    |Surrealist           |
-|Philippe Soupault     |Nadja                    |Surrealist           |
-|Jacques Rousseau      |Nadja                    |Philosopher          |
-|Benjamin Peret        |Nadja                    |Surrealist           |
-|Robert Desnos         |Nadja                    |Surrealist           |
-|Marcel Duchamp        |Nadja                    |Surrealist           |
-|Rrose Selavy          |Nadja                    |Surrealist           |
-|President Wilson      |Nadja                    |President            |
-|Jacques Vach          |Nadja                    |Unknown              |
-|Mademoiselle Solange  |Nadja                    |Unknown              |
-|Blanche Derval        |Nadja                    |Unknown              |
-|Marcel Noll           |Nadja                    |Surrealist           |
-|Louis Aragon          |Nadja                    |Surrealist           |
-|Fanny Beznos          |Nadja                    |Unknown              |
-|Henri I               |Nadja                    |Unknown              |
-|Louis V               |Nadja                    |French Royalty       |
-|Madame Sierri         |Nadja                    |Unknown              |
-|Madame Cam            |Nadja                    |Unknown              |
-|Madame Aubry          |Nadja                    |Unknown              |
-|Max Ernst             |Nadja                    |Surrealist           |
-|Henri Matisse         |Nadja                    |Artist               |
-|Professor Claude      |Nadja                    |Professor            |
-|Henri Becque          |Nadja                    |Unknown              |
-|Monsieur Delouit      |Nadja                    |Unknown              |
-|Marcel Duchamp        |The Exquisite Corpse     |Surrealist           |
-|Jacques Prevert       |The Exquisite Corpse     |Unknown              |
-|Yves Tanguy           |The Exquisite Corpse     |Surrealist           |
-|Benjamin Peret        |The Exquisite Corpse     |Surrealist           |
-|Monsieur Poincar      |The Exquisite Corpse     |Unknown              |
-|Madame Superior       |Magnetic Fields          |Unknown              |
-|Prince Rupert         |Magnetic Fields          |Royalty              |
-|Miss Fork             |Babylon                  |Unknown              |
-|Cousin Cynthia        |Babylon                  |Unknown              |
-|Empress Eugenie       |Babylon                  |Unknown              |
-|Alfred Petitdemange   |Babylon                  |Unknown              |
-|Francois Premier      |Babylon                  |Unknown              |
-|Petit Larousse        |Babylon                  |Unknown              |
-|Aunt Sophie           |Babylon                  |Unknown              |
-|Lady Macbeth          |Babylon                  |Fictional character  |
-|Lady Cynthia          |Babylon                  |Unknown              |
-|Mademoiselle Cynthia  |Babylon                  |Unknown              |
-|Madame High           |Babylon                  |Unknown              |
-|Madame Campan         |Babylon                  |Unknown              |
-|Louis Aragon          |Punishments of Hell      |Surrealist           |
-|André Breton          |Punishments of Hell      |Surrealist           |
-|Roger Vitrac          |Punishments of Hell      |Surrealist           |
-|Paul Eluard           |Punishments of Hell      |Surrealist           |
-|Max Morise            |Punishments of Hell      |Surrealist           |
-|Miss Flowers          |Punishments of Hell      |Surrealist           |
-|Benjamin Peret        |Punishments of Hell      |Surrealist           |
-|Tristan Tzara         |Punishments of Hell      |Surrealist           |
-|May Woodson           |Punishments of Hell      |Unknown              |
-|Simone Breton         |Punishments of Hell      |Unknown              |
-|Robert Desnos         |Punishments of Hell      |Surrealist           |
-|Philippe Soupault     |Punishments of Hell      |Surrealist           |
-|Georges Limbour       |Punishments of Hell      |Unknown              |
-|Jacques Baron         |Punishments of Hell      |Unknown              |
-|Georges Auric         |Punishments of Hell      |Unknown              |
-|Francis Picabia       |Punishments of Hell      |Surrealist           |
-|Mirette Mattrejean    |Punishments of Hell      |Unknown              |
-|Gustave Aimard        |Punishments of Hell      |Unknown              |
-|Archduke Rudolf       |Punishments of Hell      |Unknown              |
-|Jules Mary            |Punishments of Hell      |Unknown              |
-|Pablo Picasso         |Punishments of Hell      |Artist               |
-|Isidore Ducasse       |Punishments of Hell      |Unknown              |
-|Arthur Rimbaud        |Punishments of Hell      |Poet                 |
-|Alfred Jarry          |Punishments of Hell      |Unknown              |
-|Guillaume Apollinaire |Punishments of Hell      |Surrealist           |
-|Jacques Vach          |Punishments of Hell      |Unknown              |
-|Eugene Sue            |Punishments of Hell      |Unknown              |
-|Germain Nouveau       |Punishments of Hell      |Unknown              |
-|Paul Eluard           |Letters to Gala          |Surrealist           |
-|Gala (Eluard/Dalí)    |Letters to Gala          |Surrealist           |
-|André Gide            |Death to the Pigs        |Unknown              |
-|(Joan of Arc)         |Death to the Pigs        |Saint                |
-|Charles VII           |Death to the Pigs        |French Royalty       |
-|Saint John            |Death to the Pigs        |Saint                |
-|Saint Paul            |Death to the Pigs        |Saint                |
-|Saint Louis           |Death to the Pigs        |Saint                |
-|Saint Theresa         |Death to the Pigs        |Saint                |
-|Saint Arseho          |Death to the Pigs        |Saint                |
-|Lieutenant Condamine  |Death to the Pigs        |Unknown              |
-|Anatole Crasse        |Death to the Pigs        |Unknown              |
-|Monsieur Poincare     |Death to the Pigs        |Unknown              |
-|Doctor Voronoff       |Death to the Pigs        |Unknown              |
-|General Joffre        |Death to the Pigs        |Unknown              |
-|Boulounge Shootgrove  |Death to the Pigs        |Unknown              |
+Finally, this table identifies all of the named entities in Corpus S (of the texts that have been digitized). This table is very simple but groups entities by name rather than source (as it was organized previously) and includes more detailed versions of the roles than a previous version. This is the data I have been working with the most this semester.
 
-
-
-
+|Name             |Source                            |Role      |
+|-----------------|----------------------------------|----------|
+|Alfred Jarry     |Manifestoes of Surrealism         |Writer    |
+|Alfred Jarry     |Punishments of Hell               |Writer    |
+|Alfred Petitdemange|Babylon                           |Fictional character|
+|Alphonse Rabbe   |Manifestoes of Surrealism         |Writer    |
+|Anatole Crasse   |Death to the Pigs                 |Unknown   |
+|Anatole France   |Manifestoes of Surrealism         |Poet      |
+|Andre Breton     |Paris Peasant                     |Surrealist|
+|Andre Breton     |Punishments of Hell               |Surrealist|
+|Andre Gide       |Death to the Pigs                 |Writer    |
+|Antontin Artaud  |Manifestoes of Surrealism         |Surrealist|
+|Antontin Mercie  |Paris Peasant                     |Artist    |
+|Archduke Rudolf  |Punishments of Hell               |Royalty   |
+|Arnold Bocklin   |Paris Peasant                     |Artist    |
+|Arthur Rimbaud   |Punishments of Hell               |Poet      |
+|Aunt Sophie      |Babylon                           |Fictional character|
+|Avida Dollars    |Manifestoes of Surrealism         |Surrealist|
+|Barillet Deschamps|Paris Peasant                     |Horticulturist|
+|Benjamin Peret   |Paris Peasant                     |Surrealist|
+|Benjamin Peret   |Manifestoes of Surrealism         |Surrealist|
+|Benjamin Peret   |Nadja                             |Surrealist|
+|Benjamin Peret   |The Exquisite Corpse              |Surrealist|
+|Benjamin Peret   |Punishments of Hell               |Surrealist|
+|Blanche Derval   |Nadja                             |Actress   |
+|Boris Souvarine  |Manifestoes of Surrealism         |Communist |
+|Boulounge Shootgrove|Death to the Pigs                 |Unknown   |
+|Charles Baron    |Paris Peasant                     |Unknown   |
+|Charles VII      |Death to the Pigs                 |French Royalty|
+|Christopher Columbus|Paris Peasant                     |Explorer  |
+|Christopher Columbus|Manifestoes of Surrealism         |Explorer  |
+|Cousin Cynthia   |Babylon                           |Fictional character|
+|Don Juan         |Paris Peasant                     |Fictional character|
+|Duchenes Martinets|Paris Peasant                     |Unknown   |
+|Edgar Poe        |Manifestoes of Surrealism         |Poet      |
+|Edouard Andre    |Paris Peasant                     |Horticulturist|
+|Edward V         |Paris Peasant                     |British royalty|
+|Emile Duclaux    |Manifestoes of Surrealism         |Scientist |
+|Empress Eugenie  |Babylon                           |French Royalty|
+|Etienne Dolet    |Paris Peasant                     |Printer   |
+|Etienne Dolet    |Nadja                             |Printer   |
+|Etienne Marcel   |Manifestoes of Surrealism         |French politician|
+|Eugene Sue       |Punishments of Hell               |Writer    |
+|Fanny Beznos     |Nadja                             |Writer    |
+|Francis Girard   |Manifestoes of Surrealism         |Unknown   |
+|Francis Picabia  |Paris Peasant                     |Surrealist|
+|Francis Picabia  |Manifestoes of Surrealism         |Surrealist|
+|Francis Picabia  |Punishments of Hell               |Surrealist|
+|Francois Premier |Babylon                           |French Royalty|
+|Frau Krafft      |Paris Peasant                     |Unknown   |
+|Fred Bretonnel   |Paris Peasant                     |Boxer     |
+|Fyodor Dostoevsky|Manifestoes of Surrealism         |Writer    |
+|Gala Dalí        |Letters to Gala                   |Surrealist|
+|Georges Auric    |Manifestoes of Surrealism         |Composer  |
+|Georges Auric    |Punishments of Hell               |Composer  |
+|Georges Limbour  |Manifestoes of Surrealism         |Surrealist|
+|Georges Limbour  |Punishments of Hell               |Surrealist|
+|Georges Malkine  |Manifestoes of Surrealism         |Surrealist|
+|Germain Nouveau  |Punishments of Hell               |Poet      |
+|Guillaume Apollinaire|Manifestoes of Surrealism         |Surrealist|
+|Guillaume Apollinaire|Punishments of Hell               |Surrealist|
+|Gustave Aimard   |Punishments of Hell               |Writer    |
+|Gustave Courbet  |Paris Peasant                     |French painter|
+|Gustave Moreau   |Manifestoes of Surrealism         |Painter   |
+|Hegel            |Manifestoes of Surrealism         |Philosopher|
+|Henri Becque     |Nadja                             |Writer    |
+|Henri I          |Nadja                             |French Royalty|
+|Henri Matisse    |Nadja                             |Painter   |
+|Henry Bataille   |Paris Peasant                     |Writer    |
+|Horace Vernet    |Paris Peasant                     |Painter   |
+|Isidore Ducasse  |Manifestoes of Surrealism         |Poet      |
+|Isidore Ducasse  |Punishments of Hell               |Poet      |
+|J. A. Boiffard   |Manifestoes of Surrealism         |Surrealist|
+|Jacques Baron    |Paris Peasant                     |Surrealist|
+|Jacques Baron    |Manifestoes of Surrealism         |Surrealist|
+|Jacques Baron    |Punishments of Hell               |Surrealist|
+|Jacques Prevert  |The Exquisite Corpse              |Writer    |
+|Jacques Rigaud   |Manifestoes of Surrealism         |Artist    |
+|Jacques Rousseau |Paris Peasant                     |Philosopher|
+|Jacques Rousseau |Nadja                             |Philosopher|
+|Jacques Vache    |Nadja                             |Surrealist|
+|Jacques Vache    |Punishments of Hell               |Surrealist|
+|Jacques Vache    |Manifestoes of Surrealism         |Surrealist|
+|Jean Carrive     |Manifestoes of Surrealism         |Surrealist|
+|Jean Jaures      |Paris Peasant                     |Socialist |
+|Jean Paulham     |Manifestoes of Surrealism         |Writer    |
+|Joan of Arc      |Death to the Pigs                 |Saint     |
+|Joseph Delteil   |Manifestoes of Surrealism         |Surrealist|
+|Joseph Joffre    |Death to the Pigs                 |Military  |
+|Jules Mary       |Punishments of Hell               |Writer    |
+|Jules Verne      |Paris Peasant                     |Writer    |
+|Juliette Drouet  |Nadja                             |Actress   |
+|Knut Hamsum      |Manifestoes of Surrealism         |Writer    |
+|Lady Cynthia     |Babylon                           |Fictional character|
+|Lady Macbeth     |Babylon                           |Fictional character|
+|Lieutenant Condamine|Death to the Pigs                 |Military  |
+|Louis Aragon     |Manifestoes of Surrealism         |Surrealist|
+|Louis Aragon     |Nadja                             |Surrealist|
+|Louis Aragon     |Punishments of Hell               |Surrealist|
+|Louis V          |Nadja                             |French Royalty|
+|Louis X          |Paris Peasant                     |French Royalty|
+|Louis X          |Manifestoes of Surrealism         |French Royalty|
+|Madame Aubry     |Nadja                             |Unknown   |
+|Madame Cam       |Nadja                             |Unknown   |
+|Madame Campan    |Babylon                           |Unknown   |
+|Madame Deluc     |Manifestoes of Surrealism         |Unknown   |
+|Madame High      |Babylon                           |Unknown   |
+|Madame Sierri    |Nadja                             |Unknown   |
+|Madame Superior  |Magnetic Fields                   |Unknown   |
+|Mademoiselle Cynthia|Babylon                           |Fictional character|
+|Mademoiselle Solange|Nadja                             |Fictional character|
+|Man Ray          |Manifestoes of Surrealism         |Surrealist|
+|Marcel Duchamp   |Manifestoes of Surrealism         |Surrealist|
+|Marcel Duchamp   |Nadja                             |Surrealist|
+|Marcel Duchamp   |The Exquisite Corpse              |Surrealist|
+|Marcel Fourrier  |Manifestoes of Surrealism         |French politician|
+|Marcel Noll      |Paris Peasant                     |Surrealist|
+|Marcel Noll      |Manifestoes of Surrealism         |Surrealist|
+|Marcel Noll      |Nadja                             |Surrealist|
+|Marie Roget      |Manifestoes of Surrealism         |Fictional character|
+|Max Ernst        |Manifestoes of Surrealism         |Surrealist|
+|Max Ernst        |Nadja                             |Surrealist|
+|Max Morise       |Paris Peasant                     |Surrealist|
+|Max Morise       |Manifestoes of Surrealism         |Surrealist|
+|Max Morise       |Punishments of Hell               |Surrealist|
+|May Woodson      |Punishments of Hell               |Unknown   |
+|Michel Marty     |Manifestoes of Surrealism         |Unknown   |
+|Mirette Mattrejean|Punishments of Hell               |Unknown   |
+|Miss Flowers     |Punishments of Hell               |Surrealist|
+|Miss Fork        |Babylon                           |Fictional character|
+|Monsieur Delouit |Nadja                             |Unknown   |
+|Monsieur Landruis|Paris Peasant                     |Serial killer|
+|Monsieur Oudin   |Paris Peasant                     |Clockmaer |
+|Monsieur Poincare|The Exquisite Corpse              |French politician|
+|Monsieur Poincare|Death to the Pigs                 |French politician|
+|Pablo Picasso    |Punishments of Hell               |Artist    |
+|Paul Claudel     |Manifestoes of Surrealism         |Poet      |
+|Paul Eluard      |Paris Peasant                     |Surrealist|
+|Paul Eluard      |Manifestoes of Surrealism         |Surrealist|
+|Paul Eluard      |Nadja                             |Surrealist|
+|Paul Eluard      |Punishments of Hell               |Surrealist|
+|Paul Eluard      |Letters to Gala                   |Surrealist|
+|Paul Valery      |Manifestoes of Surrealism         |Writer    |
+|Philippe Soupault|Paris Peasant                     |Surrealist|
+|Philippe Soupault|Manifestoes of Surrealism         |Surrealist|
+|Philippe Soupault|Nadja                             |Surrealist|
+|Philippe Soupault|Punishments of Hell               |Surrealist|
+|Pierre Naville   |Manifestoes of Surrealism         |Surrealist|
+|Pierre Reverdy   |Manifestoes of Surrealism         |Surrealist|
+|Pierre Unik      |Manifestoes of Surrealism         |Surrealist|
+|President Wilson |Nadja                             |President |
+|Prince Rupert    |Magnetic Fields                   |Royalty   |
+|Professor Claude |Manifestoes of Surrealism         |Professor |
+|Professor Claude |Nadja                             |Professor |
+|Professor Janet  |Manifestoes of Surrealism         |Professor |
+|Raymond Roussel  |Manifestoes of Surrealism         |Writer    |
+|Robert Desnos    |Paris Peasant                     |Surrealist|
+|Robert Desnos    |Manifestoes of Surrealism         |Surrealist|
+|Robert Desnos    |Nadja                             |Surrealist|
+|Robert Desnos    |Punishments of Hell               |Surrealist|
+|Roger Vitrac     |Manifestoes of Surrealism         |Surrealist|
+|Roger Vitrac     |Punishments of Hell               |Surrealist|
+|Rrose Selavy     |Nadja                             |Surrealist|
+|Saint Arseho     |Death to the Pigs                 |Saint     |
+|Saint Denis      |Manifestoes of Surrealism         |Saint     |
+|Saint John       |Death to the Pigs                 |Saint     |
+|Saint Louis      |Death to the Pigs                 |Saint     |
+|Saint Paul       |Death to the Pigs                 |Saint     |
+|Saint Theresa    |Death to the Pigs                 |Saint     |
+|Saint Thomas Aquinas|Manifestoes of Surrealism         |Saint     |
+|Salvador Dali    |Manifestoes of Surrealism         |Surrealist|
+|Serge Voronoff   |Death to the Pigs                 |Surgeon   |
+|Sherlock Holmes  |Manifestoes of Surrealism         |Fictional character|
+|Sigmund Freud    |Paris Peasant                     |Psychologist|
+|Sigmund Freud    |Manifestoes of Surrealism         |Psychologist|
+|Simone Breton    |Punishments of Hell               |Surrealist|
+|Stendhal         |Manifestoes of Surrealism         |Writer    |
+|Thomas Carlyle   |Manifestoes of Surrealism         |Writer    |
+|Tristan Tzara    |Manifestoes of Surrealism         |Surrealist|
+|Tristan Tzara    |Nadja                             |Surrealist|
+|Tristan Tzara    |Punishments of Hell               |Surrealist|
+|William James    |Manifestoes of Surrealism         |Philosopher|
+|Yves Tanguy      |The Exquisite Corpse              |Surrealist|
