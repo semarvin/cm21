@@ -1,9 +1,9 @@
-﻿Author,Title,Genre,AI used,No. of words,Status,Original URL,,,,,,,,,
-Chip Lynch,Not available,Novel,GPT-2,50735,Cleaned up,https://www.chiplynch.com/wiki/index.php/NaNoGenMo2019_Final_Text,,,,,,,,,
-Jason Boog,Sublime Text,Novel,GPT-2,21342,Cleaned up,https://github.com/iistickboy/NaNoGenMo2019/blob/master/Jason%20Boog%20NaNoGenMo%202019%20.pdf,,,,,,,,,
-Daydalus,The Journey of the Book,Novel,GPT-2,22154,Cleaned up,https://daydal.us/novelgen-2019/,,,,,,,,,
-Alvaro Lacoulture,55 places the sun won't shine,Novel,GPT-2,9161,Cleaned up,https://alvarolacouture.com/nyu-itp/computational-narrative/nanogenmo/,,,,,,,,,
-Gwern Branwen,An Eternal Howl,Poetry,GPT-2,1018,Cleaned up,https://www.gwern.net/docs/www/antinegationism.tumblr.com/b8b33f6363d7605222ef0254e9f9ae0fc9d775e7.html,,,,,,,,,
-Stephen Wood,Not available,Poetry,GPT-2,384,Cleaned up,https://medium.com/@ysaw/gpt-2-writes-a-shelley-poem-bc0c19fe4ee3,,,,,,,,,
-Brent Bailey,GANterbury Tales,Novel,GPT-2,50315,Cleaned up,https://github.com/brondle/ganterbury-tales,,,,,,,,,
-Not available,The Orange Erotic Bible,Novel,GPT-2,64173,Cleaned up,https://github.com/NaNoGenMo/2019/issues/18,,,,,,,,,
+﻿Author,Title,Genre,Source URL,Word count,Top 15 most frequent words,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Chip Lynch,Not available,Novel,https://www.chiplynch.com/wiki/index.php/NaNoGenMo2019_Final_Text,50735,said little went came good man old fox poor away saw thought great grey come ,said,little,went,came,good,man,man,fox,poor,away,saw,thought,great,grey,come
+Jason Boog,Sublime Text,Novel,https://github.com/iistickboy/NaNoGenMo2019/blob/master/Jason%20Boog%20NaNoGenMo%202019%20.pdf,21342,ai world like just universe wp know game said story i'm time looked people human,ai,world,like,just,universe,wp,know,game,said,story,i'm,time,looked,people,human
+Daydalus,The Journey of the Book,Novel,https://daydal.us/novelgen-2019/,22154,said little got went going come man good old way men right time people great,said,little,got,went,going,come,man,good,old,way,men,right,time,people,great
+Alvaro Lacoulture,55 places the sun won't shine,Novel,https://alvarolacouture.com/nyu-itp/computational-narrative/nanogenmo/,9161,town years sun shone time house aureliano buendia colonel old sid arcadio jose macondo day,town,years,sun,shone,time,house,aureliano,buendia,colonel,old,sid,arcadio,jose,madondo,day
+Gwern Branwen,An Eternal Howl,Poetry,https://www.gwern.net/docs/www/antinegationism.tumblr.com/b8b33f6363d7605222ef0254e9f9ae0fc9d775e7.html,1018,moloch army moloch's death cities endless antennae crown like smoke stacks stone war blind blood,moloch,army,moloch's,death,cities,endless,antennae,crown,like,smoke,stacks,stone,war,blind,blood
+Stephen Wood,Not available,Poetry,https://medium.com/@ysaw/gpt-2-writes-a-shelley-poem-bc0c19fe4ee3,384,sea mighty gods man waggon blood great hath broken king know let say serpent voice,sea,mighty,gods,man,waggon,blood,great,hath,broken,king,know,let,say,serpent,voice
+Brent Bailey,GANterbury Tales,Novel,https://github.com/brondle/ganterbury-tales,50315,hir eek al ther wel wol nat hem quod ye god shal yow ne alle,hir,eek,al,ther,wel,wol,nat,hem,quod,ye,god,shal,yow,ne,alle
+Not available,The Orange Erotic Bible,Novel,https://github.com/NaNoGenMo/2019/issues/18,64173,shall lord said came went unto moses man people took come land blood day hand ,shall,lord,said,came,went,unto,moses,man,people,took,come,land,blood,day,hand
