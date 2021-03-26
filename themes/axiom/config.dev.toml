@@ -1,0 +1,20 @@
+baseURL = "http://localhost:1313"
+
+[params.services]
+googleAnalyticsId = ""
+googleTagManagerId = ""
+googleAdsId = ""
+googleAdsenseId = ""
+googleAdsenseAdSlotId = ""
+googleAdsenseLoad = ""
+googleAdsConversionId = ""
+googleAdsConversionValue = 0
+facebookApp = ""
+facebookPixel = ""
+disqusShortname = ""
+
+[params.cdn]
+provider = "local"
+[params.cloudinary]
+host = "https://res.cloudinary.com/CLOUD_NAME/"
+version = ""
