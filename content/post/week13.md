@@ -1,7 +1,209 @@
 ---
-title: "Metadata"
+title: "Metadata + Tables"
 date: 2021-03-25T17:56:51-04:00
-draft: true
+draft: false
 ---
 
-tables to go here 
+tables to go here ..... mmm will update this later but just checkign to seee if these are rendering????????? v upset about how long this took me to figure out
+
+|Name Identified       |Source                   |Role                 |
+|----------------------|-------------------------|---------------------|
+|André Breton          |Paris Peasant            |Surrealist           |
+|Philippe Soupault     |Paris Peasant            |Surrealist           |
+|Marcel Noll           |Paris Peasant            |Surrealist           |
+|Henry Bataille        |Paris Peasant            |Unknown              |
+|Arnold B              |Paris Peasant            |Unknown              |
+|Louis X               |Paris Peasant            |French Royalty       |
+|Etienne Dolet         |Paris Peasant            |Unknown              |
+|Antontin Merei        |Paris Peasant            |Unknown              |
+|Paul Eluard           |Paris Peasant            |Surrealist           |
+|Frau Krafft           |Paris Peasant            |Unknown              |
+|Edouard André         |Paris Peasant            |Unknown              |
+|Duchenes Martinets    |Paris Peasant            |Unknown              |
+|Barillet Deschamps    |Paris Peasant            |Unknown              |
+|Robert Desnos         |Paris Peasant            |Surrealist           |
+|Jean Jaur             |Paris Peasant            |Unknown              |
+|Jacques Rousseau      |Paris Peasant            |Enlightenment thinker|
+|Gustave Courbet       |Paris Peasant            |Unknown              |
+|Horace Vernet         |Paris Peasant            |Unknown              |
+|Monsieur Oudin        |Paris Peasant            |Unknown              |
+|Francis Picabia       |Paris Peasant            |Surrealist           |
+|Max Morise            |Paris Peasant            |Unknown              |
+|Edward V              |Paris Peasant            |Unknown              |
+|Christopher Columbus  |Paris Peasant            |Explorer             |
+|Jules Verne           |Paris Peasant            |Writer               |
+|Don Juan              |Paris Peasant            |Unknown              |
+|Benjamin Peret        |Paris Peasant            |Surrealist           |
+|Monsieur Landruis     |Paris Peasant            |Unknown              |
+|Sigmund Freud         |Paris Peasant            |Psychologist         |
+|Charles Baron         |Paris Peasant            |Unknown              |
+|Jacques Baron         |Paris Peasant            |Unknown              |
+|Fred Bretonnel        |Paris Peasant            |Unknown              |
+|Christopher Columbus  |Manifestoes of Surrealism|Explorer             |
+|Saint Thomas (Aquinas)|Manifestoes of Surrealism|Saint                |
+|Anatole France        |Manifestoes of Surrealism|Poet                 |
+|(Fyodor) Dostoevsky   |Manifestoes of Surrealism|Writer               |
+|Paul Valery           |Manifestoes of Surrealism|Writer               |
+|(Stendhal)            |Manifestoes of Surrealism|Writer               |
+|Sigmund Freud         |Manifestoes of Surrealism|Psychologist         |
+|Louis Aragon          |Manifestoes of Surrealism|Surrealist           |
+|Philippe Soupault     |Manifestoes of Surrealism|Surrealist           |
+|Paul Eluard           |Manifestoes of Surrealism|Surrealist           |
+|Robert Desnos         |Manifestoes of Surrealism|Surrealist           |
+|Roger Vitrac          |Manifestoes of Surrealism|Surrealist           |
+|Georges Auric         |Manifestoes of Surrealism|Unknown              |
+|Jean Paulham          |Manifestoes of Surrealism|Unknown              |
+|Max Morise            |Manifestoes of Surrealism|Unknown              |
+|Benjamin Peret        |Manifestoes of Surrealism|Surrealist           |
+|Joseph Delteil        |Manifestoes of Surrealism|Unknown              |
+|Jean Carrive          |Manifestoes of Surrealism|Unknown              |
+|Georges Limbour(s)    |Manifestoes of Surrealism|Unknown              |
+|Marcel Noll           |Manifestoes of Surrealism|Surrealist           |
+|Georges Malkin        |Manifestoes of Surrealism|Unknown              |
+|Antontin Artaud       |Manifestoes of Surrealism|Surrealist           |
+|Francis Girard        |Manifestoes of Surrealism|Unknown              |
+|Pierre Naville        |Manifestoes of Surrealism|Unknown              |
+|(J. A. Boiffard)      |Manifestoes of Surrealism|Unknown              |
+|Jacques Baron         |Manifestoes of Surrealism|Unknown              |
+|Francis Picabia       |Manifestoes of Surrealism|Surrealist           |
+|Marcel Duchamp        |Manifestoes of Surrealism|Surrealist           |
+|Pierre Reverdy        |Manifestoes of Surrealism|Surrealist           |
+|Guillaume Apollinaire |Manifestoes of Surrealism|Surrealist           |
+|Knut Hamsum           |Manifestoes of Surrealism|Writer               |
+|Thomas Carlyle        |Manifestoes of Surrealism|Writer               |
+|Isidore Ducasse       |Manifestoes of Surrealism|Unknown              |
+|Gustave Moreau        |Manifestoes of Surrealism|Unknown              |
+|Roger Vitrac          |Manifestoes of Surrealism|Unknown              |
+|Etienne Marcel        |Manifestoes of Surrealism|Unknown              |
+|Louis X               |Manifestoes of Surrealism|French Royalty       |
+|Man Ray               |Manifestoes of Surrealism|Surrealist           |
+|Max Ernst             |Manifestoes of Surrealism|Surrealist           |
+|Saint Denis           |Manifestoes of Surrealism|Saint                |
+|Professor Claude      |Manifestoes of Surrealism|Professor            |
+|Professor Janet       |Manifestoes of Surrealism|Professor            |
+|Alphonse Rabbe        |Manifestoes of Surrealism|Unknown              |
+|Paul Claudel          |Manifestoes of Surrealism|Unknown              |
+|Sherlock Holmes       |Manifestoes of Surrealism|Fictional character  |
+|Edgar Poe             |Manifestoes of Surrealism|Poet                 |
+|Alfred Jarry          |Manifestoes of Surrealism|Unknown              |
+|Pierre Unik           |Manifestoes of Surrealism|Unknown              |
+|Tristan Tzara         |Manifestoes of Surrealism|Surrealist           |
+|Hegel                 |Manifestoes of Surrealism|Philosopher          |
+|Michel Marty          |Manifestoes of Surrealism|Unknown              |
+|Boris Souvarine       |Manifestoes of Surrealism|Unknown              |
+|Marcel Fourrier       |Manifestoes of Surrealism|Unknown              |
+|Marie Roget           |Manifestoes of Surrealism|Unknown              |
+|Madame Deluc          |Manifestoes of Surrealism|Unknown              |
+|Raymond Roussel       |Manifestoes of Surrealism|Unknown              |
+|Jacques Vash          |Manifestoes of Surrealism|Unknown              |
+|Jacques Rigaud        |Manifestoes of Surrealism|Unknown              |
+|Salvador Dalí         |Manifestoes of Surrealism|Surrealist           |
+|Avida Dollars         |Manifestoes of Surrealism|Surrealist           |
+|Father Duchesne       |Manifestoes of Surrealism|Unknown              |
+|William James         |Manifestoes of Surrealism|Unknown              |
+|Emile Duclaux         |Manifestoes of Surrealism|Unknown              |
+|Juliette Drouet       |Nadja                    |Unknown              |
+|Tristan Tzara         |Nadja                    |Surrealist           |
+|Paul Eluard           |Nadja                    |Surrealist           |
+|Etienne Dolet         |Nadja                    |Unknown              |
+|Paul Eluard           |Nadja                    |Surrealist           |
+|Philippe Soupault     |Nadja                    |Surrealist           |
+|Jacques Rousseau      |Nadja                    |Philosopher          |
+|Benjamin Peret        |Nadja                    |Surrealist           |
+|Robert Desnos         |Nadja                    |Surrealist           |
+|Marcel Duchamp        |Nadja                    |Surrealist           |
+|Rrose Selavy          |Nadja                    |Surrealist           |
+|President Wilson      |Nadja                    |President            |
+|Jacques Vach          |Nadja                    |Unknown              |
+|Mademoiselle Solange  |Nadja                    |Unknown              |
+|Blanche Derval        |Nadja                    |Unknown              |
+|Marcel Noll           |Nadja                    |Surrealist           |
+|Louis Aragon          |Nadja                    |Surrealist           |
+|Fanny Beznos          |Nadja                    |Unknown              |
+|Henri I               |Nadja                    |Unknown              |
+|Louis V               |Nadja                    |French Royalty       |
+|Madame Sierri         |Nadja                    |Unknown              |
+|Madame Cam            |Nadja                    |Unknown              |
+|Madame Aubry          |Nadja                    |Unknown              |
+|Max Ernst             |Nadja                    |Surrealist           |
+|Henri Matisse         |Nadja                    |Artist               |
+|Professor Claude      |Nadja                    |Professor            |
+|Henri Becque          |Nadja                    |Unknown              |
+|Monsieur Delouit      |Nadja                    |Unknown              |
+|Marcel Duchamp        |The Exquisite Corpse     |Surrealist           |
+|Jacques Prevert       |The Exquisite Corpse     |Unknown              |
+|Yves Tanguy           |The Exquisite Corpse     |Surrealist           |
+|Benjamin Peret        |The Exquisite Corpse     |Surrealist           |
+|Monsieur Poincar      |The Exquisite Corpse     |Unknown              |
+|Madame Superior       |Magnetic Fields          |Unknown              |
+|Prince Rupert         |Magnetic Fields          |Royalty              |
+|Miss Fork             |Babylon                  |Unknown              |
+|Cousin Cynthia        |Babylon                  |Unknown              |
+|Empress Eugenie       |Babylon                  |Unknown              |
+|Alfred Petitdemange   |Babylon                  |Unknown              |
+|Francois Premier      |Babylon                  |Unknown              |
+|Petit Larousse        |Babylon                  |Unknown              |
+|Aunt Sophie           |Babylon                  |Unknown              |
+|Lady Macbeth          |Babylon                  |Fictional character  |
+|Lady Cynthia          |Babylon                  |Unknown              |
+|Mademoiselle Cynthia  |Babylon                  |Unknown              |
+|Madame High           |Babylon                  |Unknown              |
+|Madame Campan         |Babylon                  |Unknown              |
+|Louis Aragon          |Punishments of Hell      |Surrealist           |
+|André Breton          |Punishments of Hell      |Surrealist           |
+|Roger Vitrac          |Punishments of Hell      |Surrealist           |
+|Paul Eluard           |Punishments of Hell      |Surrealist           |
+|Max Morise            |Punishments of Hell      |Surrealist           |
+|Miss Flowers          |Punishments of Hell      |Surrealist           |
+|Benjamin Peret        |Punishments of Hell      |Surrealist           |
+|Tristan Tzara         |Punishments of Hell      |Surrealist           |
+|May Woodson           |Punishments of Hell      |Unknown              |
+|Simone Breton         |Punishments of Hell      |Unknown              |
+|Robert Desnos         |Punishments of Hell      |Surrealist           |
+|Philippe Soupault     |Punishments of Hell      |Surrealist           |
+|Georges Limbour       |Punishments of Hell      |Unknown              |
+|Jacques Baron         |Punishments of Hell      |Unknown              |
+|Georges Auric         |Punishments of Hell      |Unknown              |
+|Francis Picabia       |Punishments of Hell      |Surrealist           |
+|Mirette Mattrejean    |Punishments of Hell      |Unknown              |
+|Gustave Aimard        |Punishments of Hell      |Unknown              |
+|Archduke Rudolf       |Punishments of Hell      |Unknown              |
+|Jules Mary            |Punishments of Hell      |Unknown              |
+|Pablo Picasso         |Punishments of Hell      |Artist               |
+|Isidore Ducasse       |Punishments of Hell      |Unknown              |
+|Arthur Rimbaud        |Punishments of Hell      |Poet                 |
+|Alfred Jarry          |Punishments of Hell      |Unknown              |
+|Guillaume Apollinaire |Punishments of Hell      |Surrealist           |
+|Jacques Vach          |Punishments of Hell      |Unknown              |
+|Eugene Sue            |Punishments of Hell      |Unknown              |
+|Germain Nouveau       |Punishments of Hell      |Unknown              |
+|Paul Eluard           |Letters to Gala          |Surrealist           |
+|Gala (Eluard/Dalí)    |Letters to Gala          |Surrealist           |
+|André Gide            |Death to the Pigs        |Unknown              |
+|(Joan of Arc)         |Death to the Pigs        |Saint                |
+|Charles VII           |Death to the Pigs        |French Royalty       |
+|Saint John            |Death to the Pigs        |Saint                |
+|Saint Paul            |Death to the Pigs        |Saint                |
+|Saint Louis           |Death to the Pigs        |Saint                |
+|Saint Theresa         |Death to the Pigs        |Saint                |
+|Saint Arseho          |Death to the Pigs        |Saint                |
+|Lieutenant Condamine  |Death to the Pigs        |Unknown              |
+|Anatole Crasse        |Death to the Pigs        |Unknown              |
+|Monsieur Poincare     |Death to the Pigs        |Unknown              |
+|Doctor Voronoff       |Death to the Pigs        |Unknown              |
+|General Joffre        |Death to the Pigs        |Unknown              |
+|Boulounge Shootgrove  |Death to the Pigs        |Unknown              |
+
+
+
+
+| Author            | Title                         | Genre  | AI used | No. of words | Status     | Original URL                                                                                            |   |   |   |   |   |   |   |   |   |
+|-------------------|-------------------------------|--------|---------|--------------|------------|---------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|---|
+| Chip Lynch        | Not available                 | Novel  | GPT-2   | 50735        | Cleaned up | https://www.chiplynch.com/wiki/index.php/NaNoGenMo2019_Final_Text                                       |   |   |   |   |   |   |   |   |   |
+| Jason Boog        | Sublime Text                  | Novel  | GPT-2   | 21342        | Cleaned up | https://github.com/iistickboy/NaNoGenMo2019/blob/master/Jason%20Boog%20NaNoGenMo%202019%20.pdf          |   |   |   |   |   |   |   |   |   |
+| Daydalus          | The Journey of the Book       | Novel  | GPT-2   | 22154        | Cleaned up | https://daydal.us/novelgen-2019/                                                                        |   |   |   |   |   |   |   |   |   |
+| Alvaro Lacoulture | 55 places the sun won't shine | Novel  | GPT-2   | 9161         | Cleaned up | https://alvarolacouture.com/nyu-itp/computational-narrative/nanogenmo/                                  |   |   |   |   |   |   |   |   |   |
+| Gwern Branwen     | An Eternal Howl               | Poetry | GPT-2   | 1018         | Cleaned up | https://www.gwern.net/docs/www/antinegationism.tumblr.com/b8b33f6363d7605222ef0254e9f9ae0fc9d775e7.html |   |   |   |   |   |   |   |   |   |
+| Stephen Wood      | Not available                 | Poetry | GPT-2   | 384          | Cleaned up | https://medium.com/@ysaw/gpt-2-writes-a-shelley-poem-bc0c19fe4ee3                                       |   |   |   |   |   |   |   |   |   |
+| Brent Bailey      | GANterbury Tales              | Novel  | GPT-2   | 50315        | Cleaned up | https://github.com/brondle/ganterbury-tales                                                             |   |   |   |   |   |   |   |   |   |
+| Not available     | The Orange Erotic Bible       | Novel  | GPT-2   | 64173        | Cleaned up | https://github.com/NaNoGenMo/2019/issues/18                                                             |   |   |   |   |   |   |   |   |   |
