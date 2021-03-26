@@ -1,0 +1,6 @@
+personal note::
+
+need to KEEP netlify.toml as is but if you fuck it up be sure to 
+-update hugo version to 0.62.2
+-DELETE THEMEDIR !!!!!!!
+- fix all the other shit
