@@ -8,3 +8,7 @@
 [submodule "even"]
 	path = themes/even
 	url = https://github.com/olOwOlo/hugo-theme-even
+
+[module "even"]
+	path = opt/build
+	url = https://github.com/olOwOlo/hugo-theme-even
