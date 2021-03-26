@@ -1,17 +1,17 @@
 [build]
-  publish = "exampleSite/public"
-  command = "hugo -s exampleSite"
+  publish = "public"
+  command = "hugo"
 
 [build.environment]
-  HUGO_THEME = "repo"
+  HUGO_THEME = "even"
   HUGO_THEMESDIR = "/opt/build"
   HUGO_VERSION = "0.62.2"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://hugo-theme-even.netlify.app/"
+  HUGO_BASEURL = "https://cm21.netlify.app/"
 
 [context.deploy-preview]
-  command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
+  command = "hugo"
 
 [[headers]]
   for = "/*"
