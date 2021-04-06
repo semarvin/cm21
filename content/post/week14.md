@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization II"
-date: 2021-04-06T17:56:51-04:00
+date: 2021-04-05T17:56:51-04:00
 draft: false
 ---
 
