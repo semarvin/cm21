@@ -1,0 +1,144 @@
+---
+title: "Data Visualization II"
+output: html_notebook
+---
+
+Loading libraries:
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+```
+
+Importing data:
+
+```{r}
+names <- read_csv("namestib.csv")
+```
+
+Starting from what I think was the most successful of the visualizations I produced previously:
+
+```{r}
+ggplot(data = names) +
+ geom_point(mapping = aes(x = Role, y = Name, color = Source))
+```
+
+Working with a slightly different dataset
+
+```{r}
+roles <- read_csv("rolestib.csv")
+rolestib <- as_tibble(roles)
+```
+
+```{r}
+ggplot(data = rolestib) +
+  geom_point(mapping = aes(x = Role, y = Name, color = Count))
+```
+
+This dataset is a lot more manageable. It only contains the names that were mentioned in more than one sources, but I feel like the Count variable is not represented properly, and there's still a lot of blank space on the left-hand side of the chart.
+
+```{r}
+ggplot(data = rolestib) +
+  geom_point(mapping = aes(x = Role, y = Name, size = Count))
+```
+
+Trying something from the Internet to reorder varaiable:
+
+```{r}
+library(forcats)
+```
+
+```{r}
+rolestib %>%
+  mutate(Role = fct_reorder(Role, val)) %>%
+  ggplot(data = rolestib) +
+  geom_point(mapping = aes(x = Role, y = Name, size = Count))
+```
+
+Hmm maybe not worth my time to figure that out. Bar chart?
+
+```{r}
+rolestib %>%
+  ggplot(aes(x = Role, y = Count)) +
+  geom_bar(stat="Count")
+  
+```
+
+That didn't really work out. Let's try again.
+
+```{r}
+ggplot(data = rolestib) + 
+  geom_bar(mapping = aes(x = Role, y = Count), stat = "identity", position = "stack")
+```
+
+Trying a new table with more people included but excluding all of the Surrealists, as I've already shown that group is over-represented in this corpus.
+```{r}
+nrcsur <- read_csv("nrcsur.csv")
+nstib <- as_tibble(nrcsur)
+```
+
+```{r}
+ggplot(data = nstib) + 
+  geom_bar(mapping = aes(x = Role, y = Count), stat = "identity", position = "stack")
+```
+
+Trying to reorder variables:
+
+```{r}
+library(scales)
+```
+
+
+```{r}
+ggplot(nstib, aes(x = reorder(Role, -Count), y = Count)) + 
+  geom_bar(stat = "identity")
+```
+
+None of that works, so I'm just going to call it a day and make it look nicer.
+
+```{r}
+ggplot(nstib, aes(x = Role, y = Count)) + 
+  geom_bar(stat = "identity", color=rgb(0.2, 0.7, 0.8), fill=rgb(0.2, 0.7, 0.8)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+ggplot(nstib, aes(x = reorder(Role, Count), y = Count)) + 
+  geom_bar(stat = "identity", color=rgb(0.2, 0.7, 0.8), fill=rgb(0.2, 0.7, 0.8)) +
+  coord_flip() +
+  labs(x = "Occupations of Named Entities in Corpus S", y = "Number of Times Mentioned Across Corpus S",
+       caption = "Excluding Surrealists, mentioned 68 times",
+       title = "Who were the Surrealists writing about?")
+```
+
+
+```{r}
+ggsave(filename = "roles.png", width = 7, height = 5)
+```
+
+I like this graph. I feel like it communicates how many people of each role were mentioned across this corpus. I want to try this with the names data from before.
+
+```{r}
+ggplot(rolestib, aes(x = reorder(Name, Count), y = Count)) + 
+  geom_bar(stat = "identity", color=rgb(0.2, 0.7, 0.8), fill=rgb(0.2, 0.7, 0.8)) +
+  coord_flip() +
+  labs(x = "Named Entity", y = "Number of Times Mentioned",
+       title = "Most Frequently Mentioned People in Corpus S")
+```
+
+```{r}
+ggsave(filename = "freq.png", width = 7, height = 5)
+```
+
+
+I don't love that this doesn't include the roles of each person and that I can't change the label of the x axis--just kidding about the labels! Trying one last thing.
+
+```{r}
+ggplot(data = nstib) + 
+  geom_point(mapping = aes(x = Name, y = Role, size = Count), color=rgb(0.2, 0.7, 0.8), fill=rgb(0.2, 0.7, 0.8)) +
+  coord_flip() +
+  labs(x = "Named Entity", y = "Number of Times Mentioned",
+       title = "Most Frequently Mentioned People in Corpus S")
+```
+
+Not that great. I'm happy with two charts I was able to create.
