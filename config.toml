@@ -33,11 +33,17 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 10
   identifier = "home"
   url = "/about/about"
+ [[menu.main]]
+  name = "Project"
+  weight = 20
+  identifier = "project"
+  url = "/about/project"
 [[menu.main]]
   name = "Posts"
-  weight = 20
+  weight = 30
   identifier = "archives"
   url = "/post/"
+
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
