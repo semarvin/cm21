@@ -1,9 +1,0 @@
-personal note::
-
-need to KEEP netlify.toml as is but if you fuck it up be sure to 
--update hugo version to 0.62.2
--DELETE THEMEDIR !!!!!!!
-- fix all the other shit
-
-
-work on project overview to make your goals more overt & finish that table for the samples!
