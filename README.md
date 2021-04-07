@@ -12,4 +12,4 @@ This GitHub repository contains a variety of corpora, data, data visualizations,
 - Data_Viz (folder): all of the components for data visualizations, including tables, R notebooks, and the images themselves
 - Topic_Modeling (folder): results from TopicModelingTool
 - corpus_AI_metadata.csv, corpus_S_metadata.csv, corpus_SAIGE_metadata.csv: metadata for each corpus, respectively
-- The content, public, and themes folders, as well as config.toml and netlify.toml, are all website-building components
+- The content, public, and themes folders, as well as config.toml and netlify.toml, are all website-building components for [this website](https://cm21.netlify.app/)

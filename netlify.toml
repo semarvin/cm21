@@ -21,3 +21,6 @@
   for = "*.(css|js|woff|woff2|ttf|png|jpg|jpeg)"
   [headers.values]
     Cache-Control = "public, max-age=2592000"
+
+
+    []
