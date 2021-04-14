@@ -10,13 +10,9 @@ nocomments = true
     weight = 0
     url = "post"
   [[menu.header]]
-    name = "project"
+    name = "about"
     weight = 1
     url = "about/project"
-  [[menu.header]]
-    name = "about"
-    weight = 2
-    url = "about/about"
 
 [params]
   GithubID = "semarvin"
