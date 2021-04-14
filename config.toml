@@ -1,4 +1,4 @@
-baseurl = "http://cm21.netlify.app/"
+baseurl = "https://cm21.netlify.app/"
 title = "Ellie Marvin"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
