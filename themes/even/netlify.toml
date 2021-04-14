@@ -1,16 +1,17 @@
 [build]
-  publish = "public"
-  command = "hugo"
+  publish = "exampleSite/public"
+  command = "hugo -s exampleSite"
 
 [build.environment]
-  HUGO_THEME = "even"
-  HUGO_VERSION = "0.62.2"
+  HUGO_THEME = "repo"
+  HUGO_THEMESDIR = "/opt/build"
+  HUGO_VERSION = "0.74.3"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://cm21.netlify.app/"
+  HUGO_BASEURL = "https://hugo-theme-even.netlify.app/"
 
 [context.deploy-preview]
-  command = "hugo"
+  command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
 
 [[headers]]
   for = "/*"
@@ -21,6 +22,3 @@
   for = "*.(css|js|woff|woff2|ttf|png|jpg|jpeg)"
   [headers.values]
     Cache-Control = "public, max-age=2592000"
-
-
-    

@@ -1,100 +1,78 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/about/about/</loc>
-    <lastmod>2021-03-25T18:01:11-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://cm21.netlify.app/about/project/</loc>
+    <lastmod>2021-04-01T17:56:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2021-03-25T18:01:11-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://cm21.netlify.app/about/</loc>
+    <lastmod>2021-04-01T17:56:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-03-25T18:01:11-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://cm21.netlify.app/</loc>
+    <lastmod>2021-04-01T17:56:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week12/</loc>
+    <loc>http://cm21.netlify.app/about/about/</loc>
+    <lastmod>2021-03-25T18:01:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cm21.netlify.app/post/week12/</loc>
     <lastmod>2021-03-22T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://cm21.netlify.app/post/</loc>
     <lastmod>2021-03-22T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week10/</loc>
+    <loc>http://cm21.netlify.app/post/week10/</loc>
     <lastmod>2021-03-15T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week9/</loc>
+    <loc>http://cm21.netlify.app/post/week9/</loc>
     <lastmod>2021-03-09T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week8/</loc>
+    <loc>http://cm21.netlify.app/post/week8/</loc>
     <lastmod>2021-03-02T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week6/</loc>
+    <loc>http://cm21.netlify.app/post/week6/</loc>
     <lastmod>2021-02-15T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week4/</loc>
+    <loc>http://cm21.netlify.app/post/week4/</loc>
     <lastmod>2021-02-02T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week3/</loc>
+    <loc>http://cm21.netlify.app/post/week3/</loc>
     <lastmod>2021-01-26T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/week2/</loc>
+    <loc>http://cm21.netlify.app/post/week2/</loc>
     <lastmod>2021-01-19T17:56:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://cm21.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://cm21.netlify.app/tags/</loc>
   </url>
   
 </urlset>
